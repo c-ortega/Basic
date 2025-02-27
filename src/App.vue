@@ -1,9 +1,11 @@
 <script setup>
 import OrderList from "./components/OrderList.vue";
+import Gallery from "./components/Gallery.vue";
+
 </script>
 
 <template>
-  <OrderList />
+  <Gallery />
 </template>
 
 <style scoped></style>
